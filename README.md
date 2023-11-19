@@ -8,18 +8,18 @@
 <h4><li> Introduction about this small website</li></h4> 
   <p>My website is A mock framework application built in Spring Boot (work-in-progress)Spring Boot, Spring Security, Thymeleaf, MySQL Database.</p>
 <ol>
-	  <h6>1.  Home Page: first steps in using the application. </h6>   
-	  <h6>2.  Register to open your account</h6>
+	  <h5>1.  Home Page: first steps in using the application. </h5>   
+	  <h5>2.  Register to open your account</h5>
 	   <ul>
 		   <li>Enter your firstName, lastName, email (available email), deposit  and the password, creating unique account </li>
 		   <li>Senior sign up for control (it doest not create account in this case </li>   
 	   </ul>
-	   <h6>3. Login to account</h6>
+	   <h5>3. Login to account</h5>
 	   <ul>
 		   <li>Log in with your email and password .</li> 
 		   <li></li>
 	   </ul>
-	  <h6>4. Process after login: it can be authorized depending on purpose of using</h6>
+	  <h5>4. Process after login: it can be authorized depending on purpose of using</h5>
 	   <ul>
 		   <li>Search </li> 
 		   <li>List of members</li>
