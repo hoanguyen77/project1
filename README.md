@@ -25,7 +25,7 @@
 		   <li>List of seniors</li>
 	   </ul>
 </ol>
- <h3><li>In brieft, this is just a rude framework, it can be deployed to be an application for managing data, information of an organization.</h3>
+ <h3><li>In brief, this is just a rude framework, it can be deployed to be an application for managing data, information of an organization.</li></h3>
      	
 
 
