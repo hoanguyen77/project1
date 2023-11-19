@@ -1,60 +1,51 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>Hello</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
 <body>
-	<header>
-   
-		<h1>Hello! I'm Hoa Nguyen</h1>
-     <img src="hinhhoa1.jpg" alt="my picture" class="center">
-	</header>
 	<main>
-		<ul>
-<h2><li> Introduction </li></h2>
-    <p>My name is Hoa Nguyen. I am a resident in Renton, Washington state. </p>
+	<ul>	
      
-<h2><li> About me</li></h2> 
-	<ol>
-	   <h3>1. Motivators in software developer</h3>
+<h4><li> Introduction about this small website</li></h4> 
+  <p>My website is A mock framework application built in Spring Boot (work-in-progress)Spring Boot, Spring Security, Thymeleaf, MySQL Database.</p>
+<ol>
+	  <h6>1.  Home Page: first steps in using the application. </h6>   
+	  <h6>2.  Register to open your account</h6>
 	   <ul>
-		   <li>After graduating college, I become an accountant in one of the largest Vietnamese bank during 18 years. Because I have just come USA a few years ago, I need to update my knowledge to find a good job. </li>   
-		   <li>My favorite hobby is working in research and analytical job. I like to work in independently environment. I enjoy creative job. Being a newcomer in USA, I   need a stable job for my life. Software developer is one of creative careers and have a good salary at this time. Those are motivators enough for me to get effort to become software developer. In this field, I am happy to work hard to update knowledge as well as to listen to colleague ideas. With advantage of my creative ability, I can collect all problem solving skills and find out optimal measure.</li>
-		   <li>Besides that, as a former accountant, I am interested in Quality Code that can be applied to solve problem in accounting.</li>
+		   <li>Enter your firstName, lastName, email (available email), deposit  and the password, creating unique account </li>
+		   <li>Senior sign up for control (it doest not create account in this case </li>   
 	   </ul>
-	   <h3>2. Other interests</h3>
+	   <h6>3. Login to account</h6>
 	   <ul>
-		   <li>I am also excited to work with like-minded developers.</li> 
-		   <li>Otherwise, I am interested in setting up new products such as creating a picture in computer by myself.</li>
+		   <li>Log in with your email and password .</li> 
+		   <li></li>
 	   </ul>
-	</ol>
-       
-<h2><li>Contact </li> </h2>
-     
- <ul>    
-  <p>It is my pleasure to be contacted by you. Feel free to contact or follow me</p>
-    <ol>
-        <li> <a href="https://www.linkedin.com/in/hoa-nguyen-849825260/" >Linkedln:</a></li> 
-	    <li><a href="https://github.com/hoanguyen77/hoanguyen77/"> GitHub </a> </li>
-      
+	  <h6>4. Process after login: it can be authorized depending on purpose of using</h6>
+	   <ul>
+		   <li>Search </li> 
+		   <li>List of members</li>
+		   <li>List of seniors</li>
+	   </ul>
+</ol>
+ <h4><li>In brieft, this is just a rude framework, it can be deployed to be an application for managing data, information of an organization. It still not complete front-end at all, we can develop to have more role for accessing and controlling all data of this application</h4>
+     	
+  </ol>
+
+ 
+	
+
+  <ul>
+	 <h6>My Github account</h6>
+  	    <li><a href="https://github.com/hoanguyen77/OCT.git"> GitHub </a> </li>
+    </ul>  
         
-         
 
-    </ol>
-    </ul>
-	</ul>
-	</main>	
-<footer>
 
-		
-</footer>
-   
-		<p>email address: hoayear77@gmail.com</p> 
+ </ul>
+	
+ 
+ </main>	
+  
+
 </body>
 
 </html>
