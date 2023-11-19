@@ -17,8 +17,7 @@
 	   <h4>3. Login to account</h4>
 	   <ul>
 		   <li>Log in with your email and password .</li> 
-		   <li></li>
-	   </ul>
+		 	   </ul>
 	  <h4>4. Process after login: it can be authorized depending on purpose of using</h4>
 	   <ul>
 		   <li>Search </li> 
@@ -26,7 +25,7 @@
 		   <li>List of seniors</li>
 	   </ul>
 </ol>
- <h3><li>In brieft, this is just a rude framework, it can be deployed to be an application for managing data, information of an organization. It still not complete front-end at all, we can develop to have more role for accessing and controlling all data of this application</h3>
+ <h3><li>In brieft, this is just a rude framework, it can be deployed to be an application for managing data, information of an organization.</h3>
      	
 
 
