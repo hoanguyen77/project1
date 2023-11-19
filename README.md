@@ -12,7 +12,7 @@
 	  <h4>2.  Register to open your account</h4>
 	   <ul>
 		   <li>Enter your firstName, lastName, email (available email), deposit  and the password, creating unique account </li>
-		   <li>Senior sign up for control (it doest not create account in this case </li>   
+		   <li>Control only for control (it used for Senior sign up, it does not create account in this case </li>   
 	   </ul>
 	   <h4>3. Login to account</h4>
 	   <ul>
